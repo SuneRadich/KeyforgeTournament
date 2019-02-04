@@ -1,0 +1,9 @@
+.participant {
+    background-color: lightgray;
+    border: 1px solid darkgray;
+    padding: 5px;
+}
+
+.participant__label {
+    font-weight: 700;
+}
